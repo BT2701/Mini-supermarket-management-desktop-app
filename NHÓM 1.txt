@@ -1,0 +1,13 @@
+NHÓM 1	(lập trình java quản lý siêu thị mini)
+
+Thành viên trong nhóm
+3121410546 - Dương Thành Trưởng
+3120410628 - Trương Đức Vương
+3120410465 - Phạm Nhật Tân
+3121410257 - Trần Hoàng Khanh
+
+Các tài khoản có trên hệ thống
+TenDN				mật khẩu				QUYỀN
+admin				123456				admin
+ql01				123456				quản lý
+nv01				123456				nhân viên
