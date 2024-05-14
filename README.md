@@ -14,7 +14,7 @@ The mini supermarket management software project is an application designed to h
    [Download jCalendar here](http://www.java2s.com/Code/Jar/j/Downloadjcalendar132jar.htm)
 6. **Project**
    ```bash
-   git clone https://github.com/BT2701/Hotel-management-software-construction-and-development-project.git
+   git clone https://github.com/BT2701/Mini-supermarket-management-desktop-app.git
    ```
 7. **Import Database**
   open file 'Database/qlst_mn.sql' in phpMyAdmin (Xampp tool) and run file
