@@ -24,9 +24,9 @@ The mini supermarket management software project is an application designed to h
 2. **login**
    ![alt text](README_IMG/image.png)
 3. **Main Interface**
-   <!-- <video controls src="README_IMG/stmn.mp4" title="Title"></video> -->
-   <!-- <video controls="none" autoplay src="README_IMG/stmn.mp4" width="100%" height="360"></video> -->
-   ![Demo](README_IMG/stmn.mp4)
+   
+   ![Demo](https://github.com/BT2701/Mini-supermarket-management-desktop-app/assets/119471565/4d5450ce-1d25-401d-a3b7-002df942a29c
+   )
 
 ## Contributing
    Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
