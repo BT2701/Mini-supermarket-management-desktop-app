@@ -22,9 +22,13 @@ The mini supermarket management software project is an application designed to h
 ## USING
 1. **run file 'src/GUI/mainGUI.java'**
 2. **login**
-   ![alt text](README_IMG/image.png)
+   <div align="center">
+   <img src="(README_IMG/README_IMG/image.png" alt="alt text" style="width:70%; ">
+   </div>
 3. **Main Interface**
-   ![alt text](README_IMG/stmn.gif)
+   <div align="center">
+   <img src="(README_IMG/stmn.gif" alt="alt text" style="width:70%; ">
+   </div>
    
 
 ## Contributing
