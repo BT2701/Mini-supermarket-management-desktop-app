@@ -1,4 +1,4 @@
-# Hotel Management Software 
+# Mini Supermarket Management Software 
 The mini supermarket management software project is an application designed to help efficiently manage and organize activities within a mini supermarket. This software includes features such as inventory management, sales management, employee management, and revenue statistics. This makes inventory management, revenue and profit calculations, as well as employee management, easier and quicker.
 
 ## Setting
